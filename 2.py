@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 test_raw = """forward 5
 down 5
 forward 8

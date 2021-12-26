@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 test_raw = """3,4,3,1,2"""
 
 test = list(list(map(int, test_raw.split(","))))

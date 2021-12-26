@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 test_raw = """00100
 11110
 10110
